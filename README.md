@@ -7,7 +7,7 @@ I'm a [your role] passionate about:
 - 🧠 [Research or learning areas]
 
 ## 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=python,fastapi,rust,react,mongodb,postgresql,docker,kubernetes,linux)
+![Languages](https://skillicons.dev/icons?i=python,fastapi,rust,react,mongodb,postgresql,docker,kubernetes,linux,python,golang)
 
 ## 💼 Projects
 ### 🔹 [Project Name](https://github.com/youruser/project)
