@@ -6,22 +6,32 @@ I'm a Software Engineer with 3+ years of experience in Python development, passi
 - 📈 Leveraging FastAPI, Docker, and modern CI/CD practices to streamline engineering processes
 - 🧠 Exploring Generative AI, RAG pipelines, MCP tooling, and developer productivity tools.
 
+---
+
 ## 🛠️ Tech Stack
 ![Languages](https://skillicons.dev/icons?i=python,fastapi,java,react,redux,html,css,tailwind,flask,nodejs,spring,docker,kubernetes,mongodb,mysql,redis,linux,aws,jenkins,postman,kafka,rabbitmq)
 
+---
+
 ## 💼 Highlights from Personal Projects
-- 🚀 **Stock Data Platform**: Built and deployed full-stack apps like `stock-data-uploader` and `magic-stock-frontend` to manage and visualize stock market data. Used FastAPI, Vercel, and MongoDB.
-- 🧰 **Image CDN API**: Designed and deployed a FastAPI-based microservice to serve optimized images via custom CDN routes.
-- 🛠️ **CI/CD Automation**: Experimented with Jenkins pipelines (`jenkinsTesting`) and Dockerized environments (`zookeeper-render`) to build robust DevOps workflows.
-- 🌐 **Multiple Deployed Apps**: Deployed several web apps to Vercel (e.g., `fastapi-app`, `vercel-stock-history-uploader`) showcasing proficiency in backend deployment and UI integration.
+- 🚀 **Stock Data Platform**: Full-stack stock analysis tools using FastAPI, MongoDB, React, Vercel.
+- 🧰 **Image CDN API**: FastAPI-based service to deliver image assets via optimized CDN routing.
+- 🛠️ **CI/CD & DevOps**: Jenkins pipelines & Dockerized tools for service orchestration and testing.
+- 🌐 **Deployed Web Tools**: Multiple live Vercel-hosted tools showcasing full-stack delivery expertise.
+
+---
 
 ## 🏆 Achievements
-- 🏅 *Go the Extra Mile Award* – Ramco Systems, for delivering a high-quality testing framework (2023)
-- 🏅 *Above and Beyond Award* – Hexaware Technologies, for exceeding client expectations (FY 2020-21)
+- 🏅 *Go the Extra Mile Award* – Ramco Systems (2023)
+- 🏅 *Above and Beyond Award* – Hexaware Technologies (FY 2020–21)
+
+---
 
 ## 📜 Certifications
 - ✅ [React – The Ultimate React Course 2024](https://ude.my/UC-1abcb217-fd77-489f-9584-6d7a12679413) (Udemy)
 - ✅ [Java Certification – MindLuster](https://www.mindluster.com/student/certificate/10809380906)
+
+---
 
 ## 📊 GitHub Profile Dashboard
 
@@ -29,8 +39,40 @@ I'm a Software Engineer with 3+ years of experience in Python development, passi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkavin68&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamalkavin68&theme=radical)
 
-<!-- GitHub Activity Graph -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=kamalkavin68&theme=radical&column=7)
+
 [![Kavin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalkavin68&theme=radical)](https://github.com/kamalkavin68)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamalkavin68&label=Profile%20views&color=brightgreen&style=flat)
+
+---
+
+## 🧠 Currently Learning / Exploring
+
+![Currently Learning](https://img.shields.io/badge/Learning-Generative%20AI-blueviolet?style=flat&logo=python)
+![Currently Learning](https://img.shields.io/badge/Exploring-MCP%20Tooling-orange?style=flat&logo=fastapi)
+![Currently Learning](https://img.shields.io/badge/Deepening-FastAPI%20+%20Kafka-green?style=flat&logo=fastapi)
+
+---
+
+## 📈 GitHub Metrics & Badges
+
+<!-- GitHub DevCard -->
+<a href="https://github.com/kamalkavin68">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalkavin68&theme=radical" />
+</a>
+<br/>
+<a href="https://github.com/kamalkavin68">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamalkavin68&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamalkavin68&theme=radical" />
+</a>
+<br/>
+<a href="https://github.com/kamalkavin68">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamalkavin68&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamalkavin68&theme=radical&utcOffset=5.5" />
+</a>
+
+---
 
 ## 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/kavin-r-b05a12b0)
