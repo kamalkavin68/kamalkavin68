@@ -23,6 +23,15 @@ I'm a Software Engineer with 3+ years of experience in Python development, passi
 - ✅ [React – The Ultimate React Course 2024](https://ude.my/UC-1abcb217-fd77-489f-9584-6d7a12679413) (Udemy)
 - ✅ [Java Certification – MindLuster](https://www.mindluster.com/student/certificate/10809380906)
 
+## 📊 GitHub Profile Dashboard
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalkavin68&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkavin68&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=kamalkavin68&theme=radical)
+
+<!-- GitHub Activity Graph -->
+[![Kavin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalkavin68&theme=radical)](https://github.com/kamalkavin68)
+
 ## 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/kavin-r-b05a12b0)
 - [GitHub](https://github.com/kamalkavin68)
