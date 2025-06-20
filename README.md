@@ -4,7 +4,7 @@
 I'm a Software Engineer with 3+ years of experience in Python development, passionate about:
 - 🔧 Building scalable backend systems, automation frameworks, and full-stack tools
 - 📈 Leveraging FastAPI, Docker, and modern CI/CD practices to streamline engineering processes
-- 🧠 Exploring Generative AI, RAG pipelines, MCP tooling, and developer productivity automation
+- 🧠 Exploring Generative AI, RAG pipelines, MCP tooling, and developer productivity tools.
 
 ## 🛠️ Tech Stack
 ![Languages](https://skillicons.dev/icons?i=python,fastapi,java,react,redux,html,css,tailwind,flask,nodejs,spring,docker,kubernetes,mongodb,mysql,redis,linux,aws,jenkins,postman,kafka,rabbitmq)
