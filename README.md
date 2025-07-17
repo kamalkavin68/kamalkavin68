@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kavin R
 
 ## 🚀 About Me
-I'm a Software Engineer with 4 years of experience in Java and Python development, passionate about:
+I'm a Software Engineer with 4+ years of experience in Java and Python development, passionate about:
 - 🔧 Building scalable backend systems, automation frameworks, and full-stack tools
 - 📈 Leveraging FastAPI, Docker, and modern CI/CD practices to streamline engineering processes
 - 🧠 Exploring Generative AI, RAG pipelines, MCP tooling, and developer productivity tools.
