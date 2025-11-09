@@ -51,7 +51,16 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ---
 
 ### ✅ AI & Emerging Tech
-**Generative AI • RAG • MCP • Vector DBs • NLP • Semantic Chunking**
+
+<p>
+  <img height="40" src="https://cdn.simpleicons.org/openai" title="Generative AI" />
+  <img height="40" src="https://www.svgrepo.com/show/452213/langchain.svg" title="RAG / LangChain" />
+  <img height="40" src="https://api.iconify.design/tabler/settings-automation.svg" title="MCP" />
+  <img height="40" src="https://cdn.simpleicons.org/pinecone" title="Vector DBs" />
+  <img height="40" src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" title="NLP" />
+  <img height="40" src="https://api.iconify.design/tabler/text-recognition.svg" title="Semantic Chunking" />
+</p>
+
 
 ---
 
