@@ -9,7 +9,59 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ---
 
 ## 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=python,fastapi,java,react,redux,html,css,tailwind,flask,nodejs,spring,docker,kubernetes,mongodb,mysql,redis,linux,aws,jenkins,postman,kafka,rabbitmq)
+
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Backend Frameworks</th>
+    <th>Frontend Technologies</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,js,dotnet" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,django,express,nodejs" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,materialui" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Databases</th>
+    <th>Cloud & DevOps</th>
+    <th>Messaging</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,nginx" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Testing & Automation</th>
+    <th>Operating Systems</th>
+    <th>AI & Emerging Tech</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows,linux" />
+    </td>
+    <td align="center">
+      Generative AI • RAG • MCP • Vector DBs • NLP • Semantic Chunking
+    </td>
+  </tr>
+</table>
 
 ---
 
