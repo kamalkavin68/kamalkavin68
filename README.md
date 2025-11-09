@@ -30,6 +30,11 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 
 ---
 
+### ✅ Version Control & Repository Management
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+
+---
+
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,githubactions,linux,nginx" />
 
