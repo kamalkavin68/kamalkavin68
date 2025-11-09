@@ -10,51 +10,51 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 
 ## 🛠️ Tech Stack
 
-### ✅ Programming Languages
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,dotnet" />
 
 ---
 
-### ✅ Backend Frameworks
+### Backend Frameworks
 <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,django,express,nodejs" />
 
 ---
 
-### ✅ Frontend Technologies
+### Frontend Technologies
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,materialui" />
 
 ---
 
-### ✅ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 
 ---
 
-### ✅ Cloud & DevOps
+### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,nginx" />
 
 ---
 
-### ✅ Messaging & Streaming
+### Messaging & Streaming
 <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
 
 ---
 
-### ✅ Testing & Automation
+### Testing & Automation
 <img src="https://skillicons.dev/icons?i=postman" />
 
 ---
 
-### ✅ Operating Systems
+### Operating Systems
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
 ---
 
-### ✅ AI & Emerging Tech
+### AI & Emerging Tech
 
 <p>
   <img height="40" src="https://cdn.simpleicons.org/openai" title="Generative AI" />
-  <img height="40" src="https://www.svgrepo.com/show/452213/langchain.svg" title="RAG / LangChain" />
+  <img height="40" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo-dark.svg" />
   <img height="40" src="https://api.iconify.design/tabler/settings-automation.svg" title="MCP" />
   <img height="40" src="https://cdn.simpleicons.org/pinecone" title="Vector DBs" />
   <img height="40" src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" title="NLP" />
