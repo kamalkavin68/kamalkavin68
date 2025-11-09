@@ -31,7 +31,7 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ---
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,githubactions,linux,nginx" />
 
 ---
 
