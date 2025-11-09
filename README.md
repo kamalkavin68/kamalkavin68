@@ -10,58 +10,51 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th>Programming Languages</th>
-    <th>Backend Frameworks</th>
-    <th>Frontend Technologies</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,js,dotnet" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,django,express,nodejs" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,materialui" />
-    </td>
-  </tr>
+### ✅ Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,dotnet" />
 
-  <tr>
-    <th>Databases</th>
-    <th>Cloud & DevOps</th>
-    <th>Messaging</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,nginx" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-    </td>
-  </tr>
+---
 
-  <tr>
-    <th>Testing & Automation</th>
-    <th>Operating Systems</th>
-    <th>AI & Emerging Tech</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=windows,linux" />
-    </td>
-    <td align="center">
-      Generative AI • RAG • MCP • Vector DBs • NLP • Semantic Chunking
-    </td>
-  </tr>
-</table>
+### ✅ Backend Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,spring,flask,django,express,nodejs" />
+
+---
+
+### ✅ Frontend Technologies
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,materialui" />
+
+---
+
+### ✅ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+
+---
+
+### ✅ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,nginx" />
+
+---
+
+### ✅ Messaging & Streaming
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+
+---
+
+### ✅ Testing & Automation
+<img src="https://skillicons.dev/icons?i=postman" />
+
+---
+
+### ✅ Operating Systems
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+
+---
+
+### ✅ AI & Emerging Tech
+**Generative AI • RAG • MCP • Vector DBs • NLP • Semantic Chunking**
+
+---
+
 
 ---
 
