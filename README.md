@@ -94,15 +94,15 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 
 ## 📊 GitHub Profile Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalkavin68&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkavin68&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=kamalkavin68&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalkavin96&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkavin96&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=kamalkavin96&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kamalkavin68&theme=radical&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kamalkavin96&theme=radical&column=7)
 
-[![Kavin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalkavin68&theme=radical)](https://github.com/kamalkavin68)
+[![Kavin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalkavin96&theme=radical)](https://github.com/kamalkavin96)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamalkavin68&label=Profile%20views&color=brightgreen&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=kamalkavin96&label=Profile%20views&color=brightgreen&style=flat)
 
 ---
 
@@ -117,23 +117,23 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ## 📈 GitHub Metrics & Badges
 
 <!-- GitHub DevCard -->
-<a href="https://github.com/kamalkavin68">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalkavin68&theme=radical" />
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalkavin96&theme=radical" />
 </a>
 <br/>
-<a href="https://github.com/kamalkavin68">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamalkavin68&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamalkavin68&theme=radical" />
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamalkavin96&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamalkavin96&theme=radical" />
 </a>
 <br/>
-<a href="https://github.com/kamalkavin68">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamalkavin68&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamalkavin68&theme=radical&utcOffset=5.5" />
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamalkavin96&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamalkavin96&theme=radical&utcOffset=5.5" />
 </a>
 
 ---
 
 ## 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/kavin-r-b05a12b0)
-- [GitHub](https://github.com/kamalkavin68)
-- ✉️ Email: `kamalkavin68@gmail.com`
+- [GitHub](https://github.com/kamalkavin96)
+- ✉️ Email: `kamalkavin96@gmail.com`
