@@ -11,12 +11,12 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,dotnet,go,rust" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dotnet,rust,go" />
 
 ---
 
 ### Backend Frameworks
-<img src="https://skillicons.dev/icons?i=fastapi,spring,flask,django,express,nodejs" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring,flask,django,express,nodejs,axum" />
 
 ---
 
