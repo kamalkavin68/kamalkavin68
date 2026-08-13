@@ -46,7 +46,7 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ---
 
 ### Testing & Automation
-<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=postman,playwright" />
 
 ---
 
