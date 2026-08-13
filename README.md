@@ -26,7 +26,7 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ---
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgresql,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgresql,elasticsearch,opensearch,sybase" />
 
 ---
 
